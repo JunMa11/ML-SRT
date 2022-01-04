@@ -1,4 +1,4 @@
-#  Machine Learning (ML) for Spatially Resolved Transcriptomics (SRT) with histology images
+#  Machine Learning (ML) for Spatially Resolved Transcriptomics (SRT) with Histology Images
 
 ## Papers (2021-)
 
