@@ -22,15 +22,16 @@
 ## Talks
 
 - Spatial Omics Zoom Seminar Series ([Homepage](https://spatialomics.net/), [YouTube](https://www.youtube.com/channel/UCVCbNOLVh325dieVdnF-aWg))
+- 20211011-[Joakim Lundeberg](https://www.kth.se/profile/joalun): Spatial Transcriptomics and its application in skin research ([YouTube](https://www.youtube.com/watch?v=WjwvJtm1F3A))
 
-- 20210810-[Edward Zhao](https://scholar.google.com.hk/citations?user=ayOCjW8AAAAJ&hl=en&oi=sra):BayesSpace enables the robust characterization of spatial gene expression architecture ([YouTube](https://www.youtube.com/watch?v=vQRT8myi-qs))
+- 20210810-[Edward Zhao](https://scholar.google.com.hk/citations?user=ayOCjW8AAAAJ&hl=en&oi=sra): BayesSpace enables the robust characterization of spatial gene expression architecture ([YouTube](https://www.youtube.com/watch?v=vQRT8myi-qs))
+- 20210607-[Omer Bayraktar](https://www.sanger.ac.uk/person/bayraktar-omer/): Mapping neural cell type diversity using spatial transcriptomics ([YouTube](https://www.youtube.com/watch?v=qtADS6IHQGE))
 
-- 20210327-[Fei Chen](https://www.insitubiology.org/research):Next generation tools for spatial genomics ([YouTube](https://www.youtube.com/watch?v=HmYuS1qHuew&t=2983s))
+- 20210327-[Fei Chen](https://www.insitubiology.org/research): Next generation tools for spatial genomics ([YouTube](https://www.youtube.com/watch?v=HmYuS1qHuew&t=2983s))
 
 - 20210105-[Xiaowei Zhuang](http://zhuang.harvard.edu/): Single-Cell Transcriptome Imaging and Brain Cell Atlas ([YouTube](https://www.youtube.com/watch?v=a9_rGdlM_Rw&t=2165s))
 
 - 20201123-[James Zou](https://www.james-zou.com/): Deep learning to integrate histology with spatial transcriptomics ([YouTube](https://www.youtube.com/watch?v=9PYeMn8t57Y))
-
 
 
 ## Public Datasets
