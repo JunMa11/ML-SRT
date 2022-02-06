@@ -6,6 +6,7 @@
 
 | Date     | First Author                                                 | Title                                                        | Journal                                                      | Code                                                 |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 20220131 | [Giovanni Palla](https://scholar.google.com.hk/citations?user=20uwxzkAAAAJ&hl=en&oi=sra) | Squidpy: a scalable framework for spatial single cell analysis | [Nature Methods](https://www.nature.com/articles/s41592-021-01358-2) | [Python](https://github.com/theislab/squidpy)        |
 | 20220113 | [Vitalii Kleshchevnikov](https://github.com/vitkl/)     | Cell2location maps fine-grained cell types in spatial transcriptomics | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01139-4) | [PyTorch](https://github.com/BayraktarLab/cell2location)         |
 | 20211207 | [Stephan Preibisch](https://preibischlab.mdc-berlin.de/)     | Image-based representation of massive spatial transcriptomics datasets | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.07.471629v1) | [JAVA](https://github.com/PreibischLab/STIM)         |
 | 20211129 | Ludvig Bergenstråhle                                         | Super-resolved spatial transcriptomics by deep data fusion   | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01075-3) | [PyTorch](https://github.com/ludvb/xfuse)            |
@@ -16,7 +17,7 @@
 | 20211028 | [Jian Hu](https://scholar.google.com/citations?user=aFlfjvwAAAAJ&hl=en&oi=sra) | SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network | [Nature Methods](https://www.nature.com/articles/s41592-021-01255-8) | [PyTorch](https://github.com/jianhuupenn/SpaGCN)     |
 | 20211014 | [Viktor Petukhov](https://scholar.google.com/citations?user=rkEysdsAAAAJ&hl=en&oi=sra) | Cell segmentation in imaging-based spatial transcriptomics   | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01044-w) | [Julia](https://github.com/kharchenkolab/Baysor)     |
 | 20210603 | [Edward Zhao](https://scholar.google.com.hk/citations?user=ayOCjW8AAAAJ&hl=en&oi=sra) | Spatial transcriptomics at subspot resolution with BayesSpace | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-00935-2) | [R](https://github.com/edward130603/BayesSpace)      |
-| 20210429 | [Giovanni Palla](https://scholar.google.com.hk/citations?user=20uwxzkAAAAJ&hl=en&oi=sra) | Squidpy: a scalable framework for spatial single cell analysis | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.02.19.431994v2) | [Python](https://github.com/theislab/squidpy)        |
+
 
 
 
