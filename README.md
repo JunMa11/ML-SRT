@@ -22,7 +22,7 @@
 
 
 ## Talks
-
+- 20220111-[Fabian J. Theis](https://www.helmholtz-munich.de/icb/institute/staff/staff/ma/2494/index.html): Learning cellular state and dynamics in single cell genomics ([YouTube](https://www.youtube.com/watch?v=_3s8g7t6Nww))
 - Spatial Omics Zoom Seminar Series ([Homepage](https://spatialomics.net/), [YouTube](https://www.youtube.com/channel/UCVCbNOLVh325dieVdnF-aWg))
 - 20211011-[Joakim Lundeberg](https://www.kth.se/profile/joalun): Spatial Transcriptomics and its application in skin research ([YouTube](https://www.youtube.com/watch?v=WjwvJtm1F3A))
 
@@ -48,6 +48,7 @@
 
 | Date     | First Author                                                 | Title                                                        | Journal                                                      |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 20220207 | [Giovanni Palla](https://scholar.google.com.hk/citations?user=20uwxzkAAAAJ&hl=en&oi=ao) | Spatial components of molecular tissue biology | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01182-1) |
 | 20210811 | [Anjali Rao](https://scholar.google.ca/citations?user=_QwXNM8AAAAJ&hl=en&oi=sra) | Exploring tissue architecture using spatial transcriptomics  | [Nature](https://www.nature.com/articles/s41586-021-03634-9) |
 | 20211018 | [Kevin M. Boehm](https://scholar.google.ca/citations?hl=en&user=3t7ftQwAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate) | Harnessing multimodal data integration to advance precision oncology | [Nature Reviews Cancer](https://www.nature.com/articles/s41568-021-00408-3) |
 | 20210601 | [Jian Hu](https://scholar.google.com/citations?user=aFlfjvwAAAAJ&hl=en&oi=sra) | Statistical and machine learning methods for spatially resolved transcriptomics with histology | [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/science/article/pii/S2001037021002907?via%3Dihub) |
